@@ -174,4 +174,5 @@ if resource ~= expectedName then
     print("Change the resource name to ^4" .. expectedName .. " ^0or else the functionality will not work correctly.")
 end
 
-print ("")
+print ("Your Script is up to date!")
+print ("Connection Established to Discord!")
